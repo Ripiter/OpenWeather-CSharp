@@ -6,7 +6,7 @@ namespace ApiTesting
     {
         static void Main(string[] args)
         {
-            OpenWeatherApi api = new OpenWeatherApi("7b14dbf4bb8322258a8b3e5e43ba0d3e");
+            OpenWeatherApi api = new OpenWeatherApi("Your-api-key");
 
             string city = "Roskilde";
 
