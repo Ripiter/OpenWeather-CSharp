@@ -1,4 +1,4 @@
-# OpenWeatherApi-C#
+# OpenWeatherApi C#
 
 Am a begining programmer(student), this is code is used to get 
 temperature information about a city
